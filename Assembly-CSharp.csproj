@@ -41,9 +41,12 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\GameSetType.cs" />
      <Compile Include="Assets\Scripts\Settings.cs" />
-     <Compile Include="Assets\Scripts\CellPanel.cs" />
+     <Compile Include="Assets\Scripts\CellManager.cs" />
+     <Compile Include="Assets\Scripts\UIFind.cs" />
+     <Compile Include="Assets\Scripts\ResetGameFader.cs" />
+     <Compile Include="Assets\Scripts\Panel.cs" />
+     <Compile Include="Assets\Scripts\GameSet.cs" />
      <Reference Include="UnityEngine">
      <HintPath>C:/Program Files/Unity/2021.1.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
      </Reference>

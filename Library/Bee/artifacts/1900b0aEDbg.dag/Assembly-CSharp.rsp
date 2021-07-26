@@ -343,9 +343,12 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/VSSettingsProvider.ref.dll"
-"Assets/Scripts/CellPanel.cs"
-"Assets/Scripts/GameSetType.cs"
+"Assets/Scripts/CellManager.cs"
+"Assets/Scripts/GameSet.cs"
+"Assets/Scripts/Panel.cs"
+"Assets/Scripts/ResetGameFader.cs"
 "Assets/Scripts/Settings.cs"
+"Assets/Scripts/UIFind.cs"
 -langversion:8.0
 
 /deterministic
