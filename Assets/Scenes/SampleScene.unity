@@ -960,9 +960,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cellPrefab: {fileID: 4893134731282024574}
+  settings: {fileID: 645657285}
   levelsCount: 3
   cellsOnNewLvl: 3
-  settings: {fileID: 645657285}
 --- !u!114 &1336795964
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1071,8 +1071,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1361f5a07ae4296a2acec6f97bf7719, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  resetButton: {fileID: 79853849}
-  cm: {fileID: 1336795963}
+  resetButton: {fileID: 79853851}
 --- !u!1001 &3829076434741793949
 PrefabInstance:
   m_ObjectHideFlags: 0
